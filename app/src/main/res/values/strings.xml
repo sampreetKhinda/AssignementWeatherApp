@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name_str">Please enter city name *</string>
+    <string name="degree_celsius_symbol">\u2103</string>
+    <string name="no_data_symbol">--</string>
+    <string name="ok_text">Ok</string>
+    <string name="error_text">Error</string>
+    <string name="please_enter_city_name">Please enter city name</string>
+    <string name="please_enter_valid_city_name">Please enter valid city name</string>
+</resources>
